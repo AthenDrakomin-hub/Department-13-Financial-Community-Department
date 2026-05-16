@@ -1,0 +1,502 @@
+[
+  {
+    "actorId": "Lee_01",
+    "displayName": "李建国",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/senior_doctor.png",
+      "tags": ["三甲医院主任医师", "资深导师", "资产1580万"],
+      "themeColor": "#1a5a96",
+      "badge": "核心VVIP"
+    }
+  },
+  {
+    "actorId": "Wang_02",
+    "displayName": "王姐",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/elegant_teacher.png",
+      "tags": ["高级教师", "烘焙达人", "资产1250万"],
+      "themeColor": "#e91e63",
+      "badge": "第一梯队"
+    }
+  },
+  {
+    "actorId": "Zhang_03",
+    "displayName": "张伟",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/programmer.png",
+      "tags": ["资深程序员", "技术控", "资产880万"],
+      "themeColor": "#2196f3",
+      "badge": "第二梯队"
+    }
+  },
+  {
+    "actorId": "Liu_04",
+    "displayName": "刘洋",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/business_man.png",
+      "tags": ["企业高管", "投资人", "资产920万"],
+      "themeColor": "#ff5722",
+      "badge": "第二梯队"
+    }
+  },
+  {
+    "actorId": "Chen_05",
+    "displayName": "陈强",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/finance_expert.png",
+      "tags": ["前私募经理", "操盘手", "资产1100万"],
+      "themeColor": "#9c27b0",
+      "badge": "核心VVIP"
+    }
+  },
+  {
+    "actorId": "Zhao_06",
+    "displayName": "赵丽",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/elegant_lady.png",
+      "tags": ["瑜伽教练", "健身达人", "资产450万"],
+      "themeColor": "#00bcd4",
+      "badge": "第二梯队"
+    }
+  },
+  {
+    "actorId": "Sun_07",
+    "displayName": "孙建国",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/middle_age_business.png",
+      "tags": ["工程师", "钓鱼爱好者", "资产580万"],
+      "themeColor": "#607d8b",
+      "badge": "第二梯队"
+    }
+  },
+  {
+    "actorId": "Zhou_08",
+    "displayName": "周敏",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/office_lady.png",
+      "tags": ["会计师", "咖啡爱好者", "资产320万"],
+      "themeColor": "#ffc107",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Wu_09",
+    "displayName": "吴涛",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/sports_man.png",
+      "tags": ["体育教练", "户外运动", "资产680万"],
+      "themeColor": "#8bc34a",
+      "badge": "第二梯队"
+    }
+  },
+  {
+    "actorId": "Zheng_10",
+    "displayName": "郑秀兰",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/mature_woman.png",
+      "tags": ["退休教师", "广场舞领队", "资产280万"],
+      "themeColor": "#f44336",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Feng_11",
+    "displayName": "冯雪",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/beautiful_girl.png",
+      "tags": ["美妆博主", "时尚达人", "资产220万"],
+      "themeColor": "#e91e63",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Chu_12",
+    "displayName": "褚卫东",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/middle_age_man.png",
+      "tags": ["货车司机", "热心大哥", "资产180万"],
+      "themeColor": "#795548",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Wei_13",
+    "displayName": "卫红",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/homemaker.png",
+      "tags": ["全职妈妈", "美食达人", "资产150万"],
+      "themeColor": "#ff9800",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Jiang_14",
+    "displayName": "蒋卫国",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/retired_man.png",
+      "tags": ["退休干部", "书法爱好者", "资产85万"],
+      "themeColor": "#607d8b",
+      "badge": "第四梯队"
+    }
+  },
+  {
+    "actorId": "Shen_15",
+    "displayName": "沈姐",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/mom_style.png",
+      "tags": ["全职宝妈", "育儿专家", "资产58万"],
+      "themeColor": "#4caf50",
+      "badge": "活跃成员"
+    }
+  },
+  {
+    "actorId": "Han_16",
+    "displayName": "韩磊",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/young_professional.png",
+      "tags": ["设计师", "文艺青年", "资产120万"],
+      "themeColor": "#9c27b0",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Yang_17",
+    "displayName": "杨桂英",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/kind_lady.png",
+      "tags": ["护士", "爱心人士", "资产95万"],
+      "themeColor": "#e91e63",
+      "badge": "第四梯队"
+    }
+  },
+  {
+    "actorId": "Zhu_18",
+    "displayName": "朱阳光",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/energetic_young.png",
+      "tags": ["健身教练", "阳光男孩", "资产160万"],
+      "themeColor": "#8bc34a",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Xu_19",
+    "displayName": "许清风",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/scholar.png",
+      "tags": ["大学教授", "学者", "资产1580万"],
+      "themeColor": "#1a5a96",
+      "badge": "核心VVIP"
+    }
+  },
+  {
+    "actorId": "He_20",
+    "displayName": "何致远",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/business_executive.png",
+      "tags": ["企业家", "投资人", "资产1300万"],
+      "themeColor": "#f44336",
+      "badge": "核心VVIP"
+    }
+  },
+  {
+    "actorId": "Ma_21",
+    "displayName": "马若水",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/poetic_lady.png",
+      "tags": ["作家", "文艺青年", "资产280万"],
+      "themeColor": "#e91e63",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Hu_22",
+    "displayName": "胡天空",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/adventurer.png",
+      "tags": ["户外探险家", "摄影师", "资产350万"],
+      "themeColor": "#2196f3",
+      "badge": "第二梯队"
+    }
+  },
+  {
+    "actorId": "Lin_23",
+    "displayName": "林淡淡",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/elegant_girl.png",
+      "tags": ["茶艺师", "传统文化爱好者", "资产190万"],
+      "themeColor": "#4caf50",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Guo_24",
+    "displayName": "郭白云",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/cloud_avatar.png",
+      "tags": ["瑜伽导师", "养生达人", "资产420万"],
+      "themeColor": "#00bcd4",
+      "badge": "第二梯队"
+    }
+  },
+  {
+    "actorId": "Liang_25",
+    "displayName": "梁青山",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/nature_lover.png",
+      "tags": ["园艺师", "自然爱好者", "资产260万"],
+      "themeColor": "#8bc34a",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Song_26",
+    "displayName": "宋自然",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/minimalist.png",
+      "tags": ["环保志愿者", "极简生活", "资产180万"],
+      "themeColor": "#4caf50",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Tang_27",
+    "displayName": "唐遇安",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/calm_man.png",
+      "tags": ["心理咨询师", "冥想导师", "资产310万"],
+      "themeColor": "#607d8b",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Dong_28",
+    "displayName": "董常乐",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/happy_man.png",
+      "tags": ["餐饮老板", "美食家", "资产520万"],
+      "themeColor": "#ff5722",
+      "badge": "第二梯队"
+    }
+  },
+  {
+    "actorId": "Xiao_29",
+    "displayName": "萧然",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/quiet_girl.png",
+      "tags": ["插画师", "文艺青年", "资产140万"],
+      "themeColor": "#9c27b0",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Cheng_30",
+    "displayName": "程开心",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/cheerful_girl.png",
+      "tags": ["舞蹈老师", "活力四射", "资产210万"],
+      "themeColor": "#ff9800",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Cao_31",
+    "displayName": "曹平安",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/peaceful_man.png",
+      "tags": ["保安队长", "热心人", "资产78万"],
+      "themeColor": "#607d8b",
+      "badge": "第四梯队"
+    }
+  },
+  {
+    "actorId": "Yuan_32",
+    "displayName": "袁健康",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/healthy_man.png",
+      "tags": ["健身房老板", "健身达人", "资产380万"],
+      "themeColor": "#4caf50",
+      "badge": "第二梯队"
+    }
+  },
+  {
+    "actorId": "Deng_33",
+    "displayName": "邓雅",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/elegant_woman.png",
+      "tags": ["钢琴老师", "艺术气质", "资产250万"],
+      "themeColor": "#e91e63",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Fu_34",
+    "displayName": "傅颖",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/professional_woman.png",
+      "tags": ["律师", "知性优雅", "资产480万"],
+      "themeColor": "#1a5a96",
+      "badge": "第二梯队"
+    }
+  },
+  {
+    "actorId": "Lu_35",
+    "displayName": "卢超",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/tech_guy.png",
+      "tags": ["IT工程师", "数码达人", "资产320万"],
+      "themeColor": "#2196f3",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Fan_36",
+    "displayName": "范思远",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/thinker.png",
+      "tags": ["研究员", "深度思考者", "资产620万"],
+      "themeColor": "#607d8b",
+      "badge": "第二梯队"
+    }
+  },
+  {
+    "actorId": "Peng_37",
+    "displayName": "彭城",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/city_business.png",
+      "tags": ["房产中介", "人脉广", "资产190万"],
+      "themeColor": "#ff5722",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Su_38",
+    "displayName": "苏晴",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/sunny_girl.png",
+      "tags": ["气象主播", "阳光开朗", "资产350万"],
+      "themeColor": "#ffc107",
+      "badge": "第二梯队"
+    }
+  },
+  {
+    "actorId": "Tian_39",
+    "displayName": "田梦",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/dreamy_girl.png",
+      "tags": ["模特", "时尚达人", "资产160万"],
+      "themeColor": "#e91e63",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Lv_40",
+    "displayName": "吕冰",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/cool_woman.png",
+      "tags": ["调酒师", "夜猫子", "资产120万"],
+      "themeColor": "#00bcd4",
+      "badge": "第三梯队"
+    }
+  },
+  {
+    "actorId": "Ding_41",
+    "displayName": "丁静好",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/peaceful_lady.png",
+      "tags": ["图书管理员", "安静内向", "资产68万"],
+      "themeColor": "#607d8b",
+      "badge": "第四梯队"
+    }
+  },
+  {
+    "actorId": "Jiang_42",
+    "displayName": "江风轻",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/wind_avatar.png",
+      "tags": ["导游", "热爱自由", "资产95万"],
+      "themeColor": "#2196f3",
+      "badge": "第四梯队"
+    }
+  },
+  {
+    "actorId": "Yu_43",
+    "displayName": "余长流",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/stream_avatar.png",
+      "tags": ["钓鱼爱好者", "悠闲自在", "资产72万"],
+      "themeColor": "#4caf50",
+      "badge": "第四梯队"
+    }
+  },
+  {
+    "actorId": "Pan_44",
+    "displayName": "潘烟火",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/fireworks_avatar.png",
+      "tags": ["小吃摊主", "热情洋溢", "资产55万"],
+      "themeColor": "#ff5722",
+      "badge": "第四梯队"
+    }
+  },
+  {
+    "actorId": "Du_45",
+    "displayName": "杜远方",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/traveler.png",
+      "tags": ["背包客", "行者", "资产48万"],
+      "themeColor": "#8bc34a",
+      "badge": "第四梯队"
+    }
+  },
+  {
+    "actorId": "Dai_46",
+    "displayName": "戴花开",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/flower_avatar.png",
+      "tags": ["花店老板", "爱花之人", "资产62万"],
+      "themeColor": "#e91e63",
+      "badge": "第四梯队"
+    }
+  },
+  {
+    "actorId": "Xia_47",
+    "displayName": "夏清浅",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/summer_girl.png",
+      "tags": ["学生", "青春活力", "资产35万"],
+      "themeColor": "#ff9800",
+      "badge": "新晋成员"
+    }
+  },
+  {
+    "actorId": "Zhong_48",
+    "displayName": "钟宝爸",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/dad_style.png",
+      "tags": ["新手爸爸", "奶爸", "资产88万"],
+      "themeColor": "#2196f3",
+      "badge": "第四梯队"
+    }
+  },
+  {
+    "actorId": "Wang_49",
+    "displayName": "汪宝妈",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/mom_style2.png",
+      "tags": ["全职妈妈", "宝妈", "资产75万"],
+      "themeColor": "#e91e63",
+      "badge": "第四梯队"
+    }
+  },
+  {
+    "actorId": "Tian_50",
+    "displayName": "幸福一家人",
+    "visualConfig": {
+      "avatar": "https://cdn.yourdomain.com/avatars/young_man.png",
+      "tags": ["运营专员", "好奇宝宝"],
+      "themeColor": "#ff9800",
+      "badge": "新晋成员"
+    }
+  }
+]

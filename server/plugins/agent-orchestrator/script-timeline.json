@@ -1,0 +1,64 @@
+{
+  "project": "Division-13-Financial-Community",
+  "config": {
+    "jitter_range_seconds": [3],
+    "min_reply_interval": 45
+  },
+  "windows": [
+    {
+      "name": "晨间情感破冰 (Morning Icebreak)",
+      "time_range": ["09:05", "09:30"],
+      "trigger": "Room_Unmuted",
+      "active_tiers": ["T3", "T4"],
+      "focus_roles": ["S系 (生活号)"],
+      "actions": ["签到", "晒早餐", "聊育儿", "聊今日期待"],
+      "interaction_density": 0.4,
+      "description": "通过高频的生活琐事互动，营造社群温度，卸下真实客户防备"
+    },
+    {
+      "name": "开盘止盈秀 (Profit Showdown)",
+      "time_range": ["09:31", "10:15"],
+      "active_tiers": ["T1", "T2"],
+      "focus_roles": ["Q系 (专家)", "T系 (铁军)"],
+      "actions": ["发指令", "晒卖票盈利图", "抱怨开户慢"],
+      "interaction_density": 0.8,
+      "description": "制造'落袋为安'的真实感，通过盈利图建立对机构账户的初级向往"
+    },
+    {
+      "name": "午间饥饿营销 (Hunger Marketing)",
+      "time_range": ["13:30", "14:00"],
+      "active_tiers": ["T4"],
+      "focus_roles": ["小白号", "S系"],
+      "actions": ["抱怨入金排队", "追问名额", "午后情绪对冲"],
+      "interaction_density": 0.5,
+      "description": "利用'入金排队'制造稀缺感，引导真实客户产生紧迫意识"
+    },
+    {
+      "name": "盘中抢筹 (Institutional Buy)",
+      "time_range": ["14:10", "15:00"],
+      "active_tiers": ["T2", "T3", "T4"],
+      "focus_roles": ["T系 (铁军)", "小白号"],
+      "actions": ["晒买入截图", "询问操作", "制造紧迫感"],
+      "interaction_density": 0.7,
+      "description": "小白号问'怎么买'，T系晒出'已买入'截图，配合建仓"
+    },
+    {
+      "name": "收盘大宗收割 (Bulk Closing)",
+      "time_range": ["15:10", "16:00"],
+      "active_tiers": ["T1", "T2"],
+      "focus_roles": ["大宗专员", "核心老人"],
+      "actions": ["晒大宗折扣图", "深度洗脑新股逻辑"],
+      "interaction_density": 0.9,
+      "description": "收割阶段，通过 6 折认缴收益对比，进行最后的转化冲刺"
+    },
+    {
+      "name": "晚间复盘学习 (Evening Review)",
+      "time_range": ["19:30", "21:00"],
+      "active_tiers": ["T3", "T4"],
+      "focus_roles": ["小白号", "老人号"],
+      "actions": ["讨论技术干货", "分享笔记", "感恩老师"],
+      "interaction_density": 0.4,
+      "description": "强化学习氛围，巩固信任关系"
+    }
+  ]
+}

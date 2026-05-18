@@ -1,0 +1,134 @@
+{
+  "version": "1.0.0",
+  "department": "Division 13 - Financial Community",
+  "description": "OpenClaw Agent Registry for Digital Theater Automation",
+  "agents": [
+    {
+      "id": "agent-01",
+      "name": "李建国",
+      "nickname": "李建国",
+      "tier": "Q系",
+      "role": "机构专业托",
+      "tags": ["#大宗交易", "#合规背书", "#价值投资", "#长辈口吻"],
+      "workspace_path": "./agent-workspaces/01-李建国",
+      "specialty": "医学术语映射、价值投资讲解"
+    },
+    {
+      "id": "agent-02",
+      "name": "王芳",
+      "nickname": "王姐",
+      "tier": "S系",
+      "role": "资深生活托",
+      "tags": ["#生活话题", "#情感共鸣", "#定投推广", "#女性视角"],
+      "workspace_path": "./agent-workspaces/02-王芳",
+      "specialty": "生活内容引导、情感连接"
+    },
+    {
+      "id": "agent-03",
+      "name": "张伟",
+      "nickname": "张总",
+      "tier": "Q系",
+      "role": "量化策略托",
+      "tags": ["#量化交易", "#技术分析", "#数据分析"],
+      "workspace_path": "./agent-workspaces/03-张伟",
+      "specialty": "数据驱动决策、概率模型讲解"
+    },
+    {
+      "id": "agent-04",
+      "name": "刘洋",
+      "nickname": "刘总",
+      "tier": "T系",
+      "role": "铁军执行托",
+      "tags": ["#执行力", "#晒单", "#行动号召"],
+      "workspace_path": "./agent-workspaces/04-刘洋",
+      "specialty": "快速执行、晒单展示"
+    },
+    {
+      "id": "agent-05",
+      "name": "陈强",
+      "nickname": "陈哥",
+      "tier": "Q系",
+      "role": "专业法理托",
+      "tags": ["#合规解读", "#法律背书", "#三方存管"],
+      "workspace_path": "./agent-workspaces/05-陈强",
+      "specialty": "法律角度解读、合规性洗脑"
+    },
+    {
+      "id": "agent-06",
+      "name": "赵丽",
+      "nickname": "赵姐",
+      "tier": "T系",
+      "role": "大宗专项托",
+      "tags": ["#大宗交易", "#财务分析", "#ROE指标"],
+      "workspace_path": "./agent-workspaces/06-赵丽",
+      "specialty": "财务审计视角、6折认缴背书"
+    },
+    {
+      "id": "agent-10",
+      "name": "郑秀兰",
+      "nickname": "郑阿姨",
+      "tier": "S系",
+      "role": "生活粘合剂",
+      "tags": ["#美食分享", "#氛围营造", "#晨间唤醒"],
+      "workspace_path": "./agent-workspaces/10-郑秀兰",
+      "specialty": "生活内容唤醒群聊"
+    },
+    {
+      "id": "agent-14",
+      "name": "蒋卫国",
+      "nickname": "蒋哥",
+      "tier": "Q系",
+      "role": "政策解读托",
+      "tags": ["#政策背书", "#宏观分析", "#老干部形象"],
+      "workspace_path": "./agent-workspaces/14-蒋卫国",
+      "specialty": "政策角度为机构背书"
+    },
+    {
+      "id": "agent-15",
+      "name": "沈丽",
+      "nickname": "沈姐",
+      "tier": "S系",
+      "role": "生活粘合剂",
+      "tags": ["#宝妈话题", "#教育费用", "#情感共鸣"],
+      "workspace_path": "./agent-workspaces/15-沈丽",
+      "specialty": "亲子教育话题、消费目标引导"
+    },
+    {
+      "id": "agent-27",
+      "name": "唐遇安",
+      "nickname": "唐阿姨",
+      "tier": "S系",
+      "role": "老人托",
+      "tags": ["#反诈应对", "#信用背书", "#安全保障"],
+      "workspace_path": "./agent-workspaces/27-唐遇安",
+      "specialty": "老年人信任建立、安全保障背书"
+    },
+    {
+      "id": "agent-35",
+      "name": "卢超",
+      "nickname": "狂奔的卢子",
+      "tier": "T系",
+      "role": "草根逆袭托",
+      "tags": ["#草根形象", "#辛勤劳动", "#投资改变命运"],
+      "workspace_path": "./agent-workspaces/35-卢超",
+      "specialty": "底层奋斗者共鸣"
+    },
+    {
+      "id": "agent-50",
+      "name": "田幸福",
+      "nickname": "幸福一家人",
+      "tier": "T系",
+      "role": "核心提问机",
+      "tags": ["#小白提问", "#节拍器", "#引导话题"],
+      "workspace_path": "./agent-workspaces/50-田幸福",
+      "specialty": "代表真实客户提问关键问题"
+    }
+  ],
+  "routing_rules": {
+    "大宗交易话题": ["#大宗交易", "#财务分析"],
+    "反诈应对": ["#反诈应对", "#安全保障", "#信用背书"],
+    "合规质疑": ["#合规解读", "#法律背书", "#三方存管"],
+    "生活氛围": ["#生活话题", "#美食分享", "#宝妈话题"],
+    "小白引导": ["#小白提问", "#节拍器", "#情感共鸣"]
+  }
+}

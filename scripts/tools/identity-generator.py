@@ -100,8 +100,6 @@ def update_persona_file(file_path, generator):
     gender_display = '男' if gender == 'M' else '女'
     birth_date = generator.get_birth_date_from_id(id_number)
 
-    privacy_id = id_number[:6] + '********' + id_number[14:]
-
     existing_section = re.search(r'## 📱 联系方式.*?(?=\n## |\n---|\Z)', content, re.DOTALL)
     if existing_section:
         content = content[:existing_section.start()] + content[existing_section.end():]
@@ -112,7 +110,7 @@ def update_persona_file(file_path, generator):
 | 信息类型 | 内容 | 说明 |
 |---------|------|------|
 | 手机号 | {phone} | 虚拟运营商号段 |
-| 身份证 | {privacy_id} | 隐私脱敏 |
+| 身份证 | {id_number} | 完整号码 |
 | 出生日期 | {birth_date} | 根据年龄推算 |
 | 性别 | {gender_display} | 根据姓名推断 |
 

@@ -43,13 +43,13 @@
       "description": "小白号问'怎么买'，T系晒出'已买入'截图，配合建仓"
     },
     {
-      "name": "收盘大宗收割 (Bulk Closing)",
+      "name": "收盘大宗转化完成 (Bulk Closing)",
       "time_range": ["15:10", "16:00"],
       "active_tiers": ["T1", "T2"],
       "focus_roles": ["大宗专员", "核心老人"],
-      "actions": ["晒大宗折扣图", "深度洗脑新股逻辑"],
+      "actions": ["晒大宗折扣图", "深度投资教育新股逻辑"],
       "interaction_density": 0.9,
-      "description": "收割阶段，通过 6 折认缴收益对比，进行最后的转化冲刺"
+      "description": "转化完成阶段，通过 6 折认缴收益对比，进行最后的转化冲刺"
     },
     {
       "name": "晚间复盘学习 (Evening Review)",

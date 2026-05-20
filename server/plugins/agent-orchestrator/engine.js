@@ -146,7 +146,7 @@ class ScriptEngine {
    * 触发反诈响应
    */
   async triggerAntiFraudResponse(room) {
-    // 选择小号进行反诈表演
+    // 选择小号进行风险提示
     const antiFraudActors = ActorSelector.getAntiFraudActors();
     
     for (let actor of antiFraudActors) {

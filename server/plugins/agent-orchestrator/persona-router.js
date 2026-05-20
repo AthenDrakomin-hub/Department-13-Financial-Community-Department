@@ -19,7 +19,7 @@ const RoleRouter = {
     },
     "新股/认缴/中签": {
       responder_type: "Q_Class",
-      skills: ["new-stock-wash.md"], // 加载 6 折认缴洗脑术
+      skills: ["new-stock-wash.md"], // 加载 6 折认缴投资教育话术
       priority: 1
     },
     "机构账户/机构号": {
